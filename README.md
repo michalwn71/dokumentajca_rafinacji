@@ -1,1 +1,3 @@
-# dokumentajca_rafinacji
+## dokumentajca_rafinacji
+
+repozytorium zaliczeniowe
