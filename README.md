@@ -1,0 +1,1 @@
+# dokumentajca_rafinacji
