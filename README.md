@@ -1,3 +1,3 @@
-## dokumentajca_rafinacji
+## Dokumentajca Rafinacji
 
 repozytorium zaliczeniowe
